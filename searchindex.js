@@ -1,1 +1,1 @@
-Search.setIndex({objects:{},terms:{tabela:0,search:0,welcom:[],bem:0,index:0,modul:[],indic:[],content:0,vindo:0,immensa:0,tabl:[],document:[],page:0,"\u00edndice":0},objtypes:{},titles:["Bem Vindo ao IMMENSA!"],objnames:{},filenames:["index"]})
+Search.setIndex({objects:{},terms:{tabela:0,search:0,document:[],welcom:[],bem:0,index:0,modul:[],tutori:[0,1],indic:[],django:1,content:0,vindo:0,passo:[0,1],immensa:0,tabl:[],instalando:1,page:0,"\u00edndice":0},objtypes:{},titles:["Bem Vindo ao IMMENSA!","TUTORIAL"],objnames:{},filenames:["index","tutorial"]})
